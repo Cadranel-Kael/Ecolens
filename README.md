@@ -17,7 +17,7 @@ The companies can choose which scope and activities to track based on their avai
 3. **Built-In Emissions Factors Database**
 The application uses data from reputable databases for emission factors (e.g., kg CO2e per unit of fuel burned, per kWh of electricity, etc.) tailored to specific activities or regions,  allowing for a more precise calculation.
 4. **Reporting and Compliance Tools**
-After giving enough data the company can choose to generate reports that aligns with a framework like CDP ([Carbon Disclosure Project](https://www.cdp.net/en/companies/reporter-services/reporter-services-comparative-analysis]). This helps companies to use these reports directly for their sustainability disclosures.
+After giving enough data the company can choose to generate reports that aligns with a framework like CDP ([Carbon Disclosure Project](https://www.cdp.net/en/companies/reporter-services/reporter-services-comparative-analysis] ). This helps companies to use these reports directly for their sustainability disclosures.
 They also able to provide automatic summaries of emissions by scope and allow users to create customised reports for stakeholders, helping companies align with GHG reporting standards.
 5. **Benchmarking and Comparison**
 Companies have the ability to benchmark their emissions against industry standards or historical data, so they can see how their footprint stacks up and track improvements over time. This can help companies see trends and set realistic goals for emission reduction.
