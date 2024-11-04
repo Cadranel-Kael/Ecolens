@@ -1,6 +1,6 @@
 # Ecolens
 
-Ecolens is an application that helps companies estimate and report on their greenhouse gas emissions following the (Greenhouse Gas (GHG) Protocol)[https://ghgprotocol.org/]. My aim is to address a key need in sustainable reporting with the growing pressure of regulation on global emissions.
+Ecolens is an application that helps companies estimate and report on their greenhouse gas emissions following the [Greenhouse Gas (GHG) Protocol](https://ghgprotocol.org/). My aim is to address a key need in sustainable reporting with the growing pressure of regulation on global emissions.
 
 ## Greenhouse Gas Protocol breaks down the emission into 3 scopes
 
